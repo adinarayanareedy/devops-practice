@@ -1,3 +1,3 @@
 # devops-practice
 step-1 clone the progect devops-practice      
-developer -2 (raja) changes
+ step -2 developer -2 (raja) changes
